@@ -3,7 +3,7 @@
 ## Plugin used:
 1. Fetched API -  http://go-dev.greedygame.com/v3/dummy/report?startDate=2021-05-01&endDate=2021-05-03
 
-I successfully completed the assignment which was assigned to me, As the pdf mentioned I developed a frontend in Reactjs with redux and I hopefully followed the essential points inside the project  in the above assignment.
+I successfully completed the assignment which was assigned to me, As the pdf mentioned I developed a frontend in Reactjs with redux and I hopefully followed the essential points inside the project as pdf mentioned in the above assignment.
 
 Solution is hosted in "Vercel"  (    ).
 
