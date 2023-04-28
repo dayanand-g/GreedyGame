@@ -1,5 +1,16 @@
 # GreedyGames Analytics Page
 
+## Plugin used:
+1. Fetched API -  http://go-dev.greedygame.com/v3/dummy/report?startDate=2021-05-01&endDate=2021-05-03
+
+I successfully completed the assignment which was assigned to me, As the pdf mentioned I developed a frontend in Reactjs with redux and I hopefully followed the essential points inside the project  in the above assignment.
+
+Solution is hosted in "Vercel"  (    ).
+
+I hope that the completed assignment meets your expectations. If you have any further questions or concerns, please do not hesitate to contact me.
+
+Thank you for your time and consideration.
+
 
 ## Getting Started with Create React App
 
